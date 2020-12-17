@@ -8,6 +8,12 @@
 % Developer: Nikolai Mickevicius
 % Created:   16 December, 2020
 
+%% add code to path
+
+% make sure to change to the Subspace4DMRI directory before running this
+% script
+addpath(genpath('src'));
+
 %% Parameters 
 
 % do not change
